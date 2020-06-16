@@ -1,1 +1,1 @@
-# Scrabble-Freeform-Project
+# Scrabble Freeform Project on Codeacademy
